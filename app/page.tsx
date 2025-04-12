@@ -6,7 +6,7 @@ export default function Page() {
     <section>
       <a href={socialLinks.twitter} target="_blank">
         <Image
-          src="/profile.png"
+          src="/profile.jpg"
           alt="Profile photo"
           className="rounded-full bg-gray-100 block lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5 grayscale hover:grayscale-0"
           unoptimized
@@ -16,50 +16,26 @@ export default function Page() {
         />
       </a>
       <h1 className="mb-8 text-2xl font-medium">
-        Portfolio template!
-      </h1>
-      <div className="prose prose-neutral dark:prose-invert">
-        <p>
-          A clean, fast, and lightweight portfolio template built with Next.js,
-          Vercel, and Tailwind CSS.
-        </p>
-        <p>
-          Nextfolio has everything you need for a portfolio: MDX blog, SEO, RSS,
-          Atom & JSON feeds, analytics, Tweet & YouTube embeds, KaTeX and {""}
-          <a
-            target="_blank"
-            href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
-          >
-            more
-          </a>
-          .
-        </p>
-        <p>
-          Nextfolio is{" "}
-          <a href={socialLinks.github} target="_blank">
-            open-source
-          </a>{" "}
-          and fully customizable, making it easy to add more features.
-        </p>
-        <p>
-          <a
-            href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F1msirius%2FNextfolio"
-            target="_blank"
-          >
-            Deploy
-          </a>{" "}
-          your Nextfolio site with Vercel in minutes and follow the set up
-          instructions in the{" "}
-          <a href="/blog/getting-started">Getting Started</a> post.
-        </p>
-        <p>
-          Built and maintained by{" "}
-          <a href="https://imsirius.xyz/" target="_blank">
-            Sirius
-          </a>
-          .
-        </p>
-      </div>
+  Shubham Choudhary
+</h1>
+<div className="prose prose-neutral dark:prose-invert">
+  <p>
+    Hi, I'm Shubham – a passionate Web Developer specializing in building fast, SEO-friendly, and responsive websites using modern technologies.
+  </p>
+  <p>
+    With 3+ years of experience and 25+ projects delivered globally, I work with businesses and startups to bring their ideas to life through professional websites built on WordPress, PHP, MySQL, and more.
+  </p>
+  <p>
+  You can view some of my featured work on the{" "}
+  <a href="http://localhost:3000/projects" target="_blank">Projects Page</a>.
+ </p>
+  <p>
+    I'm always excited to collaborate on new projects. Feel free to{" "}
+    <a href="mailto:shubhamchoudharyshubh@gmail.com">get in touch</a> or connect via{" "}
+    <a href="https://www.linkedin.com/in/shubham-choudhary-shubh" target="_blank">LinkedIn</a>.
+  </p>
+</div>
+
     </section>
   );
 }
