@@ -32,6 +32,6 @@ Take a closer look at my featured projects:
 I’m always excited to collaborate on new and challenging projects.  
 📧 Email: [shubhamchoudharyshubh@gmail.com](mailto:shubhamchoudharyshubh@gmail.com)  
 🔗 LinkedIn: [Shubham Choudhary](https://www.linkedin.com/in/shubham-choudhary-shubh/)  
-🐦 Twitter: [@yourTwitterHandle](https://twitter.com/Shubham7225)
+🐦 Twitter: [@Shubham7225](https://twitter.com/Shubham7225)
 
 ---  
