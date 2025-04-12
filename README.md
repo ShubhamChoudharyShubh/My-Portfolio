@@ -1,59 +1,37 @@
-# Nextfolio
+# Shubham Choudhary | Professional Web Developer Portfolio
 
-A clean, fast, and lightweight portfolio template built with [Next.js](https://nextjs.org/), [Vercel](https://vercel.com/), and [Tailwind CSS](https://tailwindcss.com/).
+Welcome to the official portfolio of **Shubham Choudhary**, a skilled and passionate Web Developer with over 3 years of experience creating fast, SEO-friendly, and responsive websites using modern technologies.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F1msirius%2FNextfolio)
+## About Shubham Choudhary
+I specialize in helping businesses and startups grow their online presence with cutting-edge websites that are:
+- **SEO-Optimized** to rank higher on search engines.
+- **Mobile-Responsive** for seamless functionality across all devices.
+- **Performance-Driven** to ensure fast loading times and smooth user experience.
 
-## Technologies Used
+With a portfolio of **25+ successfully delivered projects**, I’ve worked with clients worldwide, translating ideas into impactful web solutions built on **WordPress, PHP, MySQL**, and more.
 
-- Framework: [Next.js](https://nextjs.org/)
-- Styling: [Tailwind CSS](https://tailwindcss.com/)
-- Analytics: [Vercel Web Analytics](https://vercel.com/docs/speed-insights) and [Speed Insights](https://vercel.com/docs/speed-insights)
-- Deployment: [Vercel](https://vercel.com/)
+---
 
-## Features
+## What I Offer
+- Custom WordPress Development  
+- SEO-Optimized Website Design  
+- E-commerce Websites  
+- Performance Enhancement and Bug Fixes  
 
-- **[MDX](https://mdxjs.com/) Support**: Use Markdown with JSX components for blog posts.
-- **Light and Dark Mode Toggle**: Switch between themes for better readability.
-- **Dynamic [OG Images](https://vercel.com/docs/functions/og-image-generation)**: Auto-generate Open Graph images for sharing.
-- **SEO Optimization**: Enhance search visibility with sitemap, robots.txt, and JSON-LD schema.
-- **Dynamic Feed Generation**: Automatic dynamic [RSS](https://nextfolio-template.vercel.app/rss.xml), [Atom](https://nextfolio-template.vercel.app/atom.xml), and [JSON](https://nextfolio-template.vercel.app/feed.json) feeds.
-- **[KaTeX](https://katex.org/) Integration**: Render mathematical expressions smoothly.
-- **Performance Tracking**: Monitor web performance with [Vercel Web Analytics](https://vercel.com/docs/speed-insights) and [Speed Insights](https://vercel.com/docs/speed-insights).
-- **Interactive Embeds**: Easily embed interactive tweets and YouTube videos.
-- **Captions**: Add descriptive captions to photos, tweets, and videos.
-- **Image Grid**: Easily showcase image galleries or photos.
+Looking for a reliable developer to bring your project to life? You’re in the right place.
 
-## Installation
+---
 
-Nextfolio uses [pnpm](https://pnpm.io/installation) for dependency management, so ensure it is installed on your system.
+## Explore My Work
+Take a closer look at my featured projects:  
+➡️ **[View Projects Page](https://shubhamchoudharyshubh.vercel.app/)**
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
+---
 
-```
-pnpm create next-app --example https://github.com/1msirius/Nextfolio my-portfolio
-```
+## Get in Touch
+I’m always excited to collaborate on new and challenging projects.  
+📧 Email: [shubhamchoudharyshubh@gmail.com](mailto:shubhamchoudharyshubh@gmail.com)  
+🔗 LinkedIn: [Shubham Choudhary](https://www.linkedin.com/in/shubham-choudhary-shubh/)  
+🐦 Twitter: [@yourTwitterHandle](https://twitter.com/Shubham7225)
 
-Start the development server:
-
-```
-pnpm dev
-```
-
-The server will be running at [http://localhost:3000](http://localhost:3000).
-
-## Configuration
-
-1. Update the site metadata and social links in `app/config.ts` to set up SEO, feeds, social links, and Open Graph settings.
-2. Update your routes in `app/sitemap.ts` for SEO optimization.
-3. Update your blog posts in the `/content` folder.
-
-For more information about configuration, follow the instructions in the [Getting Started](https://nextfolio-template.vercel.app/blog/getting-started#configuration) post.
-
-## Contributing
-
-Contributions are welcome! To get involved, just push your code to the repo. Whether you're enhancing existing features or adding new ones, your efforts are greatly appreciated!
-
-## Licence
-
-Nextfolio is open-source and released under the MIT License.
+---  
