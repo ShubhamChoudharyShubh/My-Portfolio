@@ -24,7 +24,7 @@ Looking for a reliable developer to bring your project to life? You’re in the 
 
 ## Explore My Work
 Take a closer look at my featured projects:  
-➡️ **[View Projects Page](https://shubhamchoudharyshubh.vercel.app/)**
+➡️ **[View Projects Page](https://shubhamchoudharyshubh.vercel.app/projects)**
 
 ---
 
